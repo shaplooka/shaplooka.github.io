@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Jameel Noori Nastaleeq' ;
-    src: url('https://shaplooka.github.io/chand/JameelNooriNastaleeq.woff2') format('woff2'),
-         url('https://shaplooka.github.io/chand/jameelnoorinastaleeq.ttf') format('truetype'),
-	 url('https://shaplooka.github.io/chand/jnn.ttf') format('truetype');
+    src: url('https://shaplooka/shaplooka.github.io/chand/JameelNooriNastaleeq.woff2') format('woff2'),
+         url('https://shaplooka/shaplooka.github.io/chand/jameelnoorinastaleeq.ttf') format('truetype'),
+	 url('https://shaplooka/shaplooka.github.io/chand/jnn.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
  }
