@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'mehr nastaliq web';
+    font-family: 'mehr Nastaliq web';
     src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.eot');
     src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.eot?#iefix') format('embedded-opentype'),
          url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff2') format('woff2'),
@@ -17,7 +17,7 @@ body {
  }
 
 h1 {
-    font-family: 'mehr nastaliq web' ;
+    font-family: 'mehr Nastaliq web' ;
     font-weight: normal;
     text-align: center;
 }
