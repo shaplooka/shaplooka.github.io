@@ -1,12 +1,16 @@
 @font-face {
-    font-family: 'mehr_nastaliq_web';
-    src: url('mehr_nastaliq_v._2.0-webfont.eot');
-    src: url('mehr_nastaliq_v._2.0-webfont.eot?#iefix') format('embedded-opentype'),
-         url('mehr_nastaliq_v._2.0-webfont.woff2') format('woff2'),
-         url('mehr_nastaliq_v._2.0-webfont.woff') format('woff'),
-         url('mehr_nastaliq_v._2.0-webfont.ttf') format('truetype'),
-         url('mehr_nastaliq_v._2.0-webfont.svg#mehr_nastaliq_webregular') format('svg');
+    font-family: 'mehr nastaliq Web';
+    src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.eot');
+    src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff2') format('woff2'),
+         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff') format('woff'),
+         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.ttf') format('truetype'),
+         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.svg#mehr_nastaliq_webregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
+body {
+    font-family: 'mehr nastaliq Web';
+    font-size: 32px;
+  }
