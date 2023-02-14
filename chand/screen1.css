@@ -1,11 +1,9 @@
 @font-face {
     font-family: 'mehr_nastaliq_web';
-    src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.eot');
-    src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff2') format('woff2'),
-         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff') format('woff'),
-         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.ttf') format('truetype'),
-         url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.svg#mehr_nastaliq_webregular') format('svg');
+    src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.ttf');
+    src: url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff2') format('woff2'),
+                  url('https://shaplooka.github.io/chand/mehr_nastaliq_v._2.0-webfont.woff') format('woff'),
+         
     font-weight: normal;
     font-style: normal;
 
