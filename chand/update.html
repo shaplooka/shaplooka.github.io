@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLS Video Player</title>
+    <style>
+        /* ... (keep existing styles unchanged) ... */
+    </style>
+    <!-- Include HLS.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+    <h1>HLS Video Player</h1>
+    <video id="videoPlayer" controls>
+        Your browser does not support the video tag.
+    </video>
+    <div id="status">Loading stream...</div>
+
+    <script>
+        const baseUrl = "http://125.209.88.166:45793/BRN/ArySports.stream/";
+        const masterPlaylistUrl = `${baseUrl}master.m3u8`; // Replace with actual master playlist URL
+        const videoElement = document.getElementById('videoPlayer');
+        const statusElement = document.getElementById('status');
+        let hls;
+        let retryCount = 0;
+        const maxRetries = 5;
+        const retryDelay = 3000; // 3 seconds
+
+        function initializePlayer() {
+            if (Hls.isSupported()) {
+                hls = new Hls({
+                    enableWorker: true,
+                    lowLatencyMode: true,
+                    liveSyncDuration: 30,
+                    xhrSetup: function(xhr, url) {
+                        url += (url.indexOf('?') === -1 ? '?' : '&') + 't=' + Date.now();
+                        xhr.open('GET', url, true);
+                    }
+                });
+
+                hls.attachMedia(videoElement);
+
+                hls.on(Hls.Events.MEDIA_ATTACHED, () => {
+                    console.log('Media attached');
+                    fetchLatestStreamUrl();
+                });
+
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    console.log('Manifest parsed');
+                    retryCount = 0; // Reset retry counter on success
+                });
+
+                hls.on(Hls.Events.ERROR, (event, data) => {
+                    console.error('HLS Error:', data);
+                    if (data.fatal) {
+                        handleFatalError();
+                    }
+                });
+
+                videoElement.addEventListener('playing', () => {
+                    statusElement.textContent = 'Stream is playing!';
+                });
+
+            } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
+                // Native HLS support (Safari)
+                fetchLatestStreamUrl();
+                videoElement.addEventListener('error', handleNativeError);
+            } else {
+                statusElement.textContent = 'Error: HLS not supported in this browser';
+            }
+        }
+
+        function fetchLatestStreamUrl() {
+            fetch(masterPlaylistUrl)
+                .then(response => response.text())
+                .then(data => {
+                    const latestM3u8Url = parseMasterPlaylist(data);
+                    if (latestM3u8Url) {
+                        loadStream(latestM3u8Url);
+                    } else {
+                        statusElement.textContent = 'Error: No valid stream URL found';
+                    }
+                })
+                .catch(error => {
+                    console.error('Failed to fetch master playlist:', error);
+                    statusElement.textContent = 'Error: Failed to fetch stream URL';
+                });
+        }
+
+        function parseMasterPlaylist(data) {
+            // Parse the master playlist to find the latest .m3u8 URL
+            const lines = data.split('\n');
+            for (let i = 0; i < lines.length; i++) {
+                if (lines[i].endsWith('.m3u8')) {
+                    return baseUrl + lines[i]; // Construct full URL
+                }
+            }
+            return null;
+        }
+
+        function loadStream(url) {
+            statusElement.textContent = `Loading stream: ${url}`;
+            if (Hls.isSupported()) {
+                hls.loadSource(url);
+            } else {
+                videoElement.src = url;
+            }
+        }
+
+        function handleFatalError() {
+            retryCount++;
+            if (retryCount <= maxRetries) {
+                statusElement.textContent = `Retrying stream (${retryCount}/${maxRetries})...`;
+                setTimeout(() => {
+                    hls.destroy();
+                    initializePlayer();
+                }, retryDelay * Math.pow(2, retryCount)); // Exponential backoff
+            } else {
+                statusElement.textContent = 'Error: Maximum retries reached';
+            }
+        }
+
+        function handleNativeError() {
+            statusElement.textContent = 'Error: Failed to load stream';
+        }
+
+        // Initialize player when page loads
+        initializePlayer();
+
+        // Cleanup on page close
+        window.addEventListener('beforeunload', () => {
+            if (hls) {
+                hls.destroy();
+            }
+        });
+    </script>
+</body>
+</html>
