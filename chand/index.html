@@ -48,7 +48,6 @@
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-    
     <video id="videoPlayer" controls>
         Your browser does not support the video tag.
     </video>
@@ -119,16 +118,35 @@
                 if (hls) {
                     hls.destroy();
                 }
-                hls = new Hls();
+                hls = new Hls({
+                    maxBufferLength: 30, // Adjust buffer length
+                    maxMaxBufferLength: 60, // Adjust max buffer length
+                    enableWorker: true, // Enable Web Worker for better performance
+                });
                 hls.loadSource(url);
                 hls.attachMedia(videoElement);
                 hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    console.log("Manifest parsed, starting playback.");
                     videoElement.play();
                 });
                 hls.on(Hls.Events.ERROR, (event, data) => {
                     console.error('HLS Error:', data);
                     if (data.fatal) {
-                        displayError("This stream is not working.");
+                        switch (data.type) {
+                            case Hls.ErrorTypes.NETWORK_ERROR:
+                                console.error("Network error. Trying to recover...");
+                                hls.startLoad();
+                                break;
+                            case Hls.ErrorTypes.MEDIA_ERROR:
+                                console.error("Media error. Trying to recover...");
+                                hls.recoverMediaError();
+                                break;
+                            default:
+                                console.error("Fatal error. Cannot recover.");
+                                displayError("This stream is not working.");
+                                hls.destroy();
+                                break;
+                        }
                     }
                 });
             } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
@@ -164,6 +182,9 @@
 
         // Fetch and parse the playlist when the page loads
         fetchAndParsePlaylist();
+
+        // Auto-refresh the playlist every 5 minutes (300,000 milliseconds)
+        setInterval(fetchAndParsePlaylist, 300000);
     </script>
 </body>
 </html>
