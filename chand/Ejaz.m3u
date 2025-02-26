@@ -7,10 +7,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 #EXTINF:-1,pk - A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1,pk - Ptv Sports2
-http://125.209.88.166:45793/BRN/PtvSports.stream/playlist.m3u8
-#EXTINF:-1,pk - Ptv Sports3
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+
 #EXTINF:-1,pk - Willow Sports
 http://125.209.88.166:45793/BRN/WillowSports.stream/playlist.m3u8
 #EXTINF:-1,pk - Willow Sports2
