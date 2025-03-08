@@ -19,7 +19,7 @@ http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AryDigital" tvg-logo="" group-title="EJAZ-SD",AryDigital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GeoKahani" tvg-logo="" group-title="EJAZ-SD"GeoKahani
+#EXTINF:-1 tvg-id="" tvg-name="GeoKahani" tvg-logo="" group-title="EJAZ-SD",GeoKahani
 http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Greentv" tvg-logo="" group-title="EJAZ-SD",Greentv
