@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLS Video Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        video {
+            width: 80%;
+            max-width: 800px;
+            margin: 20px auto;
+            display: block;
+        }
+        select {
+            margin-top: 20px;
+            padding: 10px;
+            font-size: 16px;
+        }
+    </style>
+    <!-- Include HLS.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+    
+    <video id="videoPlayer" controls>
+        Your browser does not support the video tag.
+    </video>
+    <div id="status">Loading stream...</div>
+    <select id="playlistSelector">
+        <option value="">Select a stream</option>
+    </select>
+
+    <script>
+        // URL of the hosted playlist file
+        const playlistUrl = "https://shaplooka.github.io/chand/Ejaz.m3u";
+
+        // Video player elements
+        const videoElement = document.getElementById('videoPlayer');
+        const statusElement = document.getElementById('status');
+        const playlistSelector = document.getElementById('playlistSelector');
+
+        // Function to load and play the HLS stream
+        function loadStream(url) {
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(url);
+                hls.attachMedia(videoElement);
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    videoElement.play();
+                    statusElement.textContent = 'Stream is playing!';
+                });
+            } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
+                // Native HLS support (Safari)
+                videoElement.src = url;
+                videoElement.addEventListener('loadedmetadata', () => {
+                    videoElement.play();
+                    statusElement.textContent = 'Stream is playing!';
+                });
+            } else {
+                statusElement.textContent = 'Error: HLS not supported in this browser';
+            }
+        }
+
+        // Function to fetch the playlist and populate the dropdown
+        async function fetchPlaylist() {
+            try {
+                const response = await fetch(playlistUrl);
+                const data = await response.text();
+                const lines = data.split('\n');
+
+                // Filter out .m3u8 links
+                const m3u8Links = lines.filter(line => line.endsWith('.m3u8'));
+
+                // Populate the dropdown
+                m3u8Links.forEach(link => {
+                    const option = document.createElement('option');
+                    option.value = link;
+                    option.textContent = link;
+                    playlistSelector.appendChild(option);
+                });
+
+                // Automatically load the first stream
+                if (m3u8Links.length > 0) {
+                    loadStream(m3u8Links[0]);
+                }
+            } catch (error) {
+                console.error('Failed to fetch playlist:', error);
+                statusElement.textContent = 'Error: Failed to fetch playlist';
+            }
+        }
+
+        // Event listener for dropdown selection
+        playlistSelector.addEventListener('change', (event) => {
+            const selectedUrl = event.target.value;
+            if (selectedUrl) {
+                loadStream(selectedUrl);
+            }
+        });
+
+        // Initialize the player and fetch the playlist
+        fetchPlaylist();
+    </script>
+</body>
+</html>
