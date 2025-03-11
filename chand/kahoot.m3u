@@ -1,35 +1,72 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ary News PK" tvg-logo="" group-title="EJAZ-TAMASHA",Ary News
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/aryNews-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports PK" tvg-logo="" group-title="AB | EJAZ-SD",PTV Sports PK
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A sports " tvg-logo="" group-title="AB | EJAZ-SD",A sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS PK" tvg-logo="" group-title="AB | EJAZ-SD",TEN SPORTS PK
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="AB | EJAZ-SD",Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV" tvg-logo="" group-title="AB | EJAZ-SD",HUM TV
+http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV HOME" tvg-logo="" group-title="AB | EJAZ-SD",PTV HOME
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Geo News PK" tvg-logo="" group-title="EJAZ-TAMASHA",Geo News
+#EXTINF:-1 tvg-id="" tvg-name="AryDigital" tvg-logo="" group-title="AB | EJAZ-SD",AryDigital
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GeoKahani" tvg-logo="" group-title="AB | EJAZ-SD",GeoKahani
+http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Greentv" tvg-logo="" group-title="AB | EJAZ-SD",Greentv
+http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GeoNews" tvg-logo="" group-title="AB | EJAZ-SD",GeoNews
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AryNews" tvg-logo="" group-title="AB | EJAZ-SD",AryNews
+http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HumNewsHD" tvg-logo="" group-title="AB | EJAZ-SD",HumNewsHD
+
+http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ary News PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Ary News
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Geo News PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Geo News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="champion trophy PK" tvg-logo="" group-title="EJAZ-TAMASHA",champion trophy
-https://cdn11lhr.tamashaweb.com:8087/jazzauth/champions-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="champion trophy PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",During Event only
+https://cdn08khi.tamashaweb.com:8087/jazzauth/TSL3-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ten sports PK" tvg-logo="" group-title="EJAZ-TAMASHA",Ten sports
+#EXTINF:-1 tvg-id="" tvg-name="Ten sports PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Ten sports
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DiscoveryPakistan PK" tvg-logo="" group-title="EJAZ-TAMASHA",DiscoveryPakistan
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryPakistan PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",DiscoveryPakistan
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ARYdigital PK" tvg-logo="" group-title="EJAZ-TAMASHA",ARYdigital
+#EXTINF:-1 tvg-id="" tvg-name="ARYdigital PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",ARYdigital
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AAN-TV PK" tvg-logo="" group-title="EJAZ-TAMASHA",AAN-TV
+#EXTINF:-1 tvg-id="" tvg-name="AAN-TV PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",AAN-TV
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SabTV PK" tvg-logo="" group-title="EJAZ-TAMASHA",SabTV
+#EXTINF:-1 tvg-id="" tvg-name="SabTV PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",SabTV
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Green_Entertainment PK" tvg-logo="" group-title="EJAZ-TAMASHA",Green_Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="Green_Entertainment PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Green_Entertainment
 https://cdn12isb.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A1 Tv PK" tvg-logo="" group-title="EJAZ-TAMASHA",A1 Tv
+#EXTINF:-1 tvg-id="" tvg-name="A1 Tv PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",A1 Tv
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/A1TV-abr/playlist.m3u8
 
 
