@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="GEO SUPER" tvg-logo="https://i.ibb.co/7YjWqk2/geo-super.png",GEO SUPER
+http://skyglass.vip:8080/120820243509/45092025457/75317
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PK: PTV Sports" tvg-logo="https://www.ptv.com.pk/wp-content/uploads/2020/04/ptv-sports-logo.png" group-title="Ejaz-Cricket-stable",PK: PTV Sports
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115686.ts
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV SPORTS (4K)" tvg-logo="https://www.ptv.com.pk/wp-content/uploads/2020/04/ptv-sports-logo.png" group-title="Ejaz-Cricket",PTV SPORTS (4K)
+http://skyglass.vip:8080/120820243509/45092025457/75314
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV SPORTS" tvg-logo="https://www.ptv.com.pk/wp-content/uploads/2020/04/ptv-sports-logo.png" group-title="Ejaz-Cricket",PTV SPORTS
+http://skyglass.vip:8080/120820243509/45092025457/75313
+#EXTINF:-1 tvg-id="GEOSuper.pk" tvg-name="GEO SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Geo_Super_logo.svg/1200px-Geo_Super_logo.svg.png" group-title="Ejaz-Cricket",GEO SUPER
+http://skyglass.vip:8080/120820243509/45092025457/75317
+#EXTINF:-1 tvg-id="TenSports.pk" tvg-name="PK: Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ten_Sports_2016_logo.svg/1200px-Ten_Sports_2016_logo.svg.png" group-title="Ejaz-Cricket-stable",PK: Ten Sports HD
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115687.ts
+#EXTINF:-1 tvg-id="TenSports.pk" tvg-name="TEN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ten_Sports_2016_logo.svg/1200px-Ten_Sports_2016_logo.svg.png" group-title="Ejaz-Cricket",TEN SPORTS HD
+http://skyglass.vip:8080/120820243509/45092025457/521331
+#EXTINF:-1 tvg-id="ASports.pk" tvg-name="A SPORTS FHD" tvg-logo="https://www.asports.tv/wp-content/uploads/2022/01/a-sports-logo.png" group-title="Ejaz-Cricket",A SPORTS FHD
+http://skyglass.vip:8080/120820243509/45092025457/521330
+#EXTINF:-1 tvg-id="ASports.pk" tvg-name="A SPORTS ARY" tvg-logo="https://www.asports.tv/wp-content/uploads/2022/01/a-sports-logo.png" group-title="Ejaz-Cricket",A SPORTS ARY
+http://skyglass.vip:8080/120820243509/45092025457/75315
+#EXTINF:-1 tvg-id="ASports.pk" tvg-name="A SPORTS ARY (4K)" tvg-logo="https://www.asports.tv/wp-content/uploads/2022/01/a-sports-logo.png" group-title="Ejaz-Cricket",A SPORTS ARY (4K)
+http://skyglass.vip:8080/120820243509/45092025457/75316
+#EXTINF:-1 tvg-id="StarzplayCriclife.pk" tvg-name="STARZPLAY CRICLIFE 1 (FHD)" tvg-logo="https://www.starzplay.com/static/media/starzplay_logo.8a4f8c1a.svg" group-title="Ejaz-Cricket",STARZPLAY CRICLIFE 1 (FHD)
+http://skyglass.vip:8080/120820243509/45092025457/75308
+#EXTINF:-1 tvg-id="StarzplayCriclife.pk" tvg-name="STARZPLAY CRICLIFE 2 FHD" tvg-logo="https://www.starzplay.com/static/media/starzplay_logo.8a4f8c1a.svg" group-title="Ejaz-Cricket",STARZPLAY CRICLIFE 2 FHD
+http://skyglass.vip:8080/120820243509/45092025457/75309
+#EXTINF:-1 tvg-id="StarzplayCriclife.pk" tvg-name="STARZPLAY CRICLIFE 3 FHD" tvg-logo="https://www.starzplay.com/static/media/starzplay_logo.8a4f8c1a.svg" group-title="Ejaz-Cricket",STARZPLAY CRICLIFE 3 FHD
+http://skyglass.vip:8080/120820243509/45092025457/75310
+#EXTINF:-1 tvg-id="SuperSports.pk" tvg-name="SUPER SPORTS CRICKET (4K)" tvg-logo="https://supersport.com/images/ss_og_image.jpg" group-title="Ejaz-Cricket",SUPER SPORTS CRICKET (4K)
+http://skyglass.vip:8080/120820243509/45092025457/75311
+#EXTINF:-1 tvg-id="TSports.pk" tvg-name="T SPORTS HD" tvg-logo="https://www.tsports.com/images/logo.png" group-title="Ejaz-Cricket",T SPORTS HD
+http://skyglass.vip:8080/120820243509/45092025457/75300
+#EXTINF:-1 tvg-id="TSports.pk" tvg-name="T SPORTS (4K)" tvg-logo="https://www.tsports.com/images/logo.png" group-title="Ejaz-Cricket",T SPORTS (4K)
+http://skyglass.vip:8080/120820243509/45092025457/75301
+#EXTINF:-1 tvg-id="ATNPlus.pk" tvg-name="ATN PLUS CRICKET" tvg-logo="https://www.atn.com.pk/wp-content/uploads/2021/06/atn-plus-logo.png" group-title="Ejaz-Cricket",ATN PLUS CRICKET
+http://skyglass.vip:8080/120820243509/45092025457/75312
+#EXTINF:-1 tvg-id="Sports18.in" tvg-name="SPORTS 18 (FHD)" tvg-logo="https://www.sports18.com/images/sports18-logo.png" group-title="Ejaz-Cricket",SPORTS 18 (FHD)
+http://skyglass.vip:8080/120820243509/45092025457/75327
+#EXTINF:-1 tvg-id="TNTSport.uk" tvg-name="TNT SPORT 4 FHD" tvg-logo="https://www.tntsports.co.uk/img/tnt-sports-logo.png" group-title="Ejaz-Cricket",TNT SPORT 4 FHD
+http://skyglass.vip:8080/120820243509/45092025457/75328
+#EXTINF:-1 tvg-id="ThePapare.lk" tvg-name="THE PAPARE" tvg-logo="https://www.thepapare.com/wp-content/uploads/2020/05/the-papare-logo.png" group-title="Ejaz-Cricket",THE PAPARE
+http://skyglass.vip:8080/120820243509/45092025457/75329
+#EXTINF:-1 tvg-id="TenSports.pk" tvg-name="TEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ten_Sports_2016_logo.svg/1200px-Ten_Sports_2016_logo.svg.png" group-title="Ejaz-Cricket",TEN SPORTS
+http://skyglass.vip:8080/120820243509/45092025457/75330
+#EXTINF:-1 tvg-id="SonyESPN.in" tvg-name="SONY ESPN HD" tvg-logo="https://www.sonyespn.in/images/sony-espn-logo.png" group-title="Ejaz-Cricket",SONY ESPN HD
+http://skyglass.vip:8080/120820243509/45092025457/75332
+#EXTINF:-1 tvg-id="Eurosport.uk" tvg-name="EUROSPORTS" tvg-logo="https://www.eurosport.com/images/eurosport-logo.png" group-title="Ejaz-Cricket",EUROSPORTS
+http://skyglass.vip:8080/120820243509/45092025457/75334
