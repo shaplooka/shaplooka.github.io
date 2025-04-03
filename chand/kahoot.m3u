@@ -1,9 +1,10 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS"
- group-title="Ejaz-Cricket-stable", PK: PTV Sports
+#EXTVLCOPT:group-title=Ejaz-Cricket-stable
+#EXTINF:-1 group-title="Ejaz-Cricket-stable", PK: PTV Sports
 http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115686.ts
 #EXTINF:-1 group-title="Ejaz-Cricket", PTV SPORTS (4K)
 http://skyglass.vip:8080/120820243509/45092025457/75314
+#EXTVLCOPT:group-title=Ejaz-Cricket-stable
 #EXTINF:-1 group-title="Ejaz-Cricket",PTV SPORTS
 http://skyglass.vip:8080/120820243509/45092025457/75313
 #EXTINF:-1 group-title="Ejaz-Cricket",GEO SUPER
