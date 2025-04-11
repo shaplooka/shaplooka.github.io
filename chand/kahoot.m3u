@@ -1,16 +1,12 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="PK: PTV Sports" group-title="Ejaz-Cricket-stable",PK: PTV Sports
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32374.ts
-#EXTINF:-1 tvg-name="PK: PTV Sports" group-title="Ejaz-Cricket-stable",PK: PTV Sports
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115686.ts
+
 #EXTINF:-1 tvg-name="PTV SPORTS (4K)" group-title="Ejaz-Cricket",PTV SPORTS (4K)
 http://skyglass.vip:8080/120820243509/45092025457/75314
 #EXTINF:-1 tvg-name="PTV SPORTS" group-title="Ejaz-Cricket",PTV SPORTS
 http://skyglass.vip:8080/120820243509/45092025457/75313
 #EXTINF:-1 tvg-name="GEO SUPER" group-title="Ejaz-Cricket",GEO SUPER
 http://skyglass.vip:8080/120820243509/45092025457/75317
-#EXTINF:-1 tvg-name="PK: Ten Sports HD" group-title="Ejaz-Cricket-stable",PK: Ten Sports HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115687.ts
+
 #EXTINF:-1 tvg-name="TEN SPORTS HD" group-title="Ejaz-Cricket",TEN SPORTS HD
 http://skyglass.vip:8080/120820243509/45092025457/521331
 #EXTINF:-1 tvg-name="A SPORTS FHD" group-title="Ejaz-Cricket",A SPORTS FHD
