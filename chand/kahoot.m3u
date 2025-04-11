@@ -389,7 +389,7 @@ https://cdn23lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8
 https://cdn08khi.tamashaweb.com:8087/jazzauth/PSL10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ten sports PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",PSL MYCO
-https://ml-pull-hwc.myco.io:443/stream1/hls/stream1_H264-720p.m3u8?pkg_media=video&pkg_hm=stream1.m3u8&pkg_svc=1&pkg_vcodec=avc1
+https://ml-pull-hwc.myco.io/stream1/hls/stream1_H264-240p.m3u8?pkg_media=video&pkg_hm=stream1.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryPakistan PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",DiscoveryPakistan
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
