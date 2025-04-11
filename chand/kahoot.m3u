@@ -46,45 +46,7 @@ http://skyglass.vip:8080/120820243509/45092025457/75332
 #EXTINF:-1 tvg-name="EUROSPORTS" group-title="Ejaz-Cricket",EUROSPORTS
 http://skyglass.vip:8080/120820243509/45092025457/75334
 
-#EXTM3U
-#EXTINF:-1 tvg-name="[IN] DD Sports HD" group-title="Ejaz-Cricket-stable",[IN] DD Sports HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115689.ts
-#EXTINF:-1 tvg-name="IN: Star Sports 1 HD Hindi" group-title="Ejaz-Cricket-stable",IN: Star Sports 1 HD Hindi
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115691.ts
-#EXTINF:-1 tvg-name="IN: Star Sports 2 HD" group-title="Ejaz-Cricket-stable",IN: Star Sports 2 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115692.ts
-#EXTINF:-1 tvg-name="IN: Star Sports 3 HD" group-title="Ejaz-Cricket-stable",IN: Star Sports 3 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115693.ts
-#EXTINF:-1 tvg-name="IN: Star Sports Select 1 HD" group-title="Ejaz-Cricket-stable",IN: Star Sports Select 1 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115694.ts
-#EXTINF:-1 tvg-name="IN: Star Sports Select 2 HD" group-title="Ejaz-Cricket-stable",IN: Star Sports Select 2 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115695.ts
-#EXTINF:-1 tvg-name="IN: Sony Six HD" group-title="Ejaz-Cricket-stable",IN: Sony Six HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115697.ts
-#EXTINF:-1 tvg-name="IN: Sony Six" group-title="Ejaz-Cricket-stable",IN: Sony Six
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115698.ts
-#EXTINF:-1 tvg-name="IN: Ten 1 HD" group-title="Ejaz-Cricket-stable",IN: Ten 1 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115699.ts
-#EXTINF:-1 tvg-name="IN: Ten 2 HD" group-title="Ejaz-Cricket-stable",IN: Ten 2 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115700.ts
-#EXTINF:-1 tvg-name="IN: Ten 3 HD" group-title="Ejaz-Cricket-stable",IN: Ten 3 HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115701.ts
-#EXTINF:-1 tvg-name="[IN] Willow Cricket HD" group-title="Ejaz-Cricket-stable",[IN] Willow Cricket HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/115702.ts
-#EXTINF:-1 tvg-name="USA : Willow Cricket" group-title="Ejaz-Cricket-stable",USA : Willow Cricket
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/11694.ts
-#EXTINF:-1 tvg-name="UK : Sky Sports Cricket FHD" group-title="Ejaz-Cricket-stable",UK : Sky Sports Cricket鈸� FHD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20963.ts
-#EXTINF:-1 tvg-name="UK : Sky Sports Cricket HD" group-title="Ejaz-Cricket-stable",UK : Sky Sports Cricket鈸� HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/20964.ts
-#EXTINF:-1 tvg-name="AU: FOX SPORTS 501" group-title="Ejaz-Cricket-stable",AU: FOX SPORTS 501
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/35149.ts
-#EXTINF:-1 tvg-name="IN: TEN 1" group-title="Ejaz-Cricket-stable",IN: TEN 1
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/14871.ts
-#EXTINF:-1 tvg-name="IN: TEN 2" group-title="Ejaz-Cricket-stable",IN: TEN 2
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/14872.ts
-#EXTINF:-1 tvg-name="IN: TEN 3" group-title="Ejaz-Cricket-stable",IN: TEN 3
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/14873.ts
+
 
 
 #EXTINF:-1 tvg-name="STAR SPORTS 1 HD" group-title="Ejaz-Cricket",STAR SPORTS 1 HD
@@ -188,176 +150,6 @@ http://skyglass.vip:8080/120820243509/45092025457/521342
 #EXTINF:-1 tvg-name="FOX CRICKET FHD" group-title="Ejaz-Cricket",FOX CRICKET FHD
 http://skyglass.vip:8080/120820243509/45092025457/521346
 
-#EXTINF:-1 tvg-name="PK: AL-QURAN AL-KAREEM" group-title="Ejaz-Pakistani-stable",PK: AL-QURAN AL-KAREEM
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32308.ts
-#EXTINF:-1 tvg-name="PK: AL-SUNNAH Madinah Live HD (local)" group-title="Ejaz-Pakistani-stable",PK: AL-SUNNAH Madinah Live HD (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32309.ts
-#EXTINF:-1 tvg-name="PK: PEACE TV URDU" group-title="Ejaz-Pakistani-stable",PK: PEACE TV URDU
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32310.ts
-#EXTINF:-1 tvg-name="PK: ARY QTV (LOCAL)" group-title="Ejaz-Pakistani-stable",PK: ARY QTV (LOCAL)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32311.ts
-#EXTINF:-1 tvg-name="PK: ARY NEWS (LOCAL)" group-title="Ejaz-Pakistani-stable",PK: ARY NEWS (LOCAL)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32312.ts
-#EXTINF:-1 tvg-name="PK: DUNYA NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: DUNYA NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32315.ts
-#EXTINF:-1 tvg-name="PK: EXPRESS NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: EXPRESS NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32316.ts
-#EXTINF:-1 tvg-name="PK: SAMAA TV (local)" group-title="Ejaz-Pakistani-stable",PK: SAMAA TV (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32317.ts
-#EXTINF:-1 tvg-name="PK: GNN NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: GNN NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32320.ts
-#EXTINF:-1 tvg-name="PK: BOL NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: BOL NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32321.ts
-#EXTINF:-1 tvg-name="PK: 24 NEWS" group-title="Ejaz-Pakistani-stable",PK: 24 NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32322.ts
-#EXTINF:-1 tvg-name="PK: NEWS ONE" group-title="Ejaz-Pakistani-stable",PK: NEWS ONE
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32323.ts
-#EXTINF:-1 tvg-name="PK: NEO NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: NEO NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32324.ts
-#EXTINF:-1 tvg-name="PK: DAWN NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: DAWN NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32325.ts
-#EXTINF:-1 tvg-name="PK: LAHORE NEWS (local)" group-title="Ejaz-Pakistani-stable",PK: LAHORE NEWS (local)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32326.ts
-#EXTINF:-1 tvg-name="PK: ABB TAKK NEWS" group-title="Ejaz-Pakistani-stable",PK: ABB TAKK NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32327.ts
-#EXTINF:-1 tvg-name="PK: CITY 41 NEWS" group-title="Ejaz-Pakistani-stable",PK: CITY 41 NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32328.ts
-#EXTINF:-1 tvg-name="PK: CITY 42 NEWS" group-title="Ejaz-Pakistani-stable",PK: CITY 42 NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32329.ts
-#EXTINF:-1 tvg-name="PK: PTV NEWS" group-title="Ejaz-Pakistani-stable",PK: PTV NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32330.ts
-#EXTINF:-1 tvg-name="PK: GEO TEZZ" group-title="Ejaz-Pakistani-stable",PK: GEO TEZZ
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32331.ts
-#EXTINF:-1 tvg-name="PK: K21 NEWS" group-title="Ejaz-Pakistani-stable",PK: K21 NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32332.ts
-#EXTINF:-1 tvg-name="PK: DIN NEWS" group-title="Ejaz-Pakistani-stable",PK: DIN NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32334.ts
-#EXTINF:-1 tvg-name="PK: KHYBER NEWS" group-title="Ejaz-Pakistani-stable",PK: KHYBER NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32335.ts
-#EXTINF:-1 tvg-name="PK: ARY DIGITAL" group-title="Ejaz-Pakistani-stable",PK: ARY DIGITAL
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32337.ts
-#EXTINF:-1 tvg-name="PK: HUM TV HD" group-title="Ejaz-Pakistani-stable",PK: HUM TV HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32338.ts
-#EXTINF:-1 tvg-name="PK: HUM SITARAY" group-title="Ejaz-Pakistani-stable",PK: HUM SITARAY
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32339.ts
-#EXTINF:-1 tvg-name="PK: GEO ENTERTAINMENT" group-title="Ejaz-Pakistani-stable",PK: GEO ENTERTAINMENT
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32340.ts
-#EXTINF:-1 tvg-name="PK: GEO KAHANI" group-title="Ejaz-Pakistani-stable",PK: GEO KAHANI
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32341.ts
-#EXTINF:-1 tvg-name="PK: URDU 1" group-title="Ejaz-Pakistani-stable",PK: URDU 1
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32342.ts
-#EXTINF:-1 tvg-name="PK: BOL ENTERTAINMENT" group-title="Ejaz-Pakistani-stable",PK: BOL ENTERTAINMENT
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32343.ts
-#EXTINF:-1 tvg-name="PK: ATV" group-title="Ejaz-Pakistani-stable",PK: ATV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32345.ts
-#EXTINF:-1 tvg-name="PK: APLUS" group-title="Ejaz-Pakistani-stable",PK: APLUS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32346.ts
-#EXTINF:-1 tvg-name="PK: APNA CHANNEL" group-title="Ejaz-Pakistani-stable",PK: APNA CHANNEL
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32347.ts
-#EXTINF:-1 tvg-name="PK: PLAY TV" group-title="Ejaz-Pakistani-stable",PK: PLAY TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32348.ts
-#EXTINF:-1 tvg-name="PK: PAKUS TV" group-title="Ejaz-Pakistani-stable",PK: PAKUS TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32349.ts
-#EXTINF:-1 tvg-name="PK: PTV HOME" group-title="Ejaz-Pakistani-stable",PK: PTV HOME
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32351.ts
-#EXTINF:-1 tvg-name="PK: DISCOVERY PAKISTAN" group-title="Ejaz-Pakistani-stable",PK: DISCOVERY PAKISTAN
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32352.ts
-#EXTINF:-1 tvg-name="PK: AAJ ENTERTAINMENT" group-title="Ejaz-Pakistani-stable",PK: AAJ ENTERTAINMENT
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32353.ts
-#EXTINF:-1 tvg-name="PK: SEE TV HD" group-title="Ejaz-Pakistani-stable",PK: SEE TV HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32354.ts
-#EXTINF:-1 tvg-name="PK: FILMAZIA" group-title="Ejaz-Pakistani-stable",PK: FILMAZIA
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32355.ts
-#EXTINF:-1 tvg-name="PK: FILMAX" group-title="Ejaz-Pakistani-stable",PK: FILMAX
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32356.ts
-#EXTINF:-1 tvg-name="PK: FILMWORLD" group-title="Ejaz-Pakistani-stable",PK: FILMWORLD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32357.ts
-#EXTINF:-1 tvg-name="PK: RAAVI TV" group-title="Ejaz-Pakistani-stable",PK: RAAVI TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32358.ts
-#EXTINF:-1 tvg-name="PK: WASEB TV" group-title="Ejaz-Pakistani-stable",PK: WASEB TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32360.ts
-#EXTINF:-1 tvg-name="PK: KHYBER TV" group-title="Ejaz-Pakistani-stable",PK: KHYBER TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32361.ts
-#EXTINF:-1 tvg-name="PK: AWAZ TV" group-title="Ejaz-Pakistani-stable",PK: AWAZ TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32363.ts
-#EXTINF:-1 tvg-name="PK: ARY ZAUQ" group-title="Ejaz-Pakistani-stable",PK: ARY ZAUQ
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32365.ts
-#EXTINF:-1 tvg-name="PK: HUM MASALA" group-title="Ejaz-Pakistani-stable",PK: HUM MASALA
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32366.ts
-#EXTINF:-1 tvg-name="PK: DISCOVERY" group-title="Ejaz-Pakistani-stable",PK: DISCOVERY
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32367.ts
-#EXTINF:-1 tvg-name="PK: ANIMAL PLANET" group-title="Ejaz-Pakistani-stable",PK: ANIMAL PLANET
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32368.ts
-#EXTINF:-1 tvg-name="PK: CARTOON NETWORK" group-title="Ejaz-Pakistani-stable",PK: CARTOON NETWORK
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32369.ts
-#EXTINF:-1 tvg-name="PK: ARY MUSIK" group-title="Ejaz-Pakistani-stable",PK: ARY MUSIK
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32370.ts
-#EXTINF:-1 tvg-name="PK: JALWA MUSIC" group-title="Ejaz-Pakistani-stable",PK: JALWA MUSIC
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32371.ts
-#EXTINF:-1 tvg-name="PK: 8XM MUSIC" group-title="Ejaz-Pakistani-stable",PK: 8XM MUSIC
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32373.ts
-#EXTINF:-1 tvg-name="PK: PTV SPORTS" group-title="Ejaz-Pakistani-stable",PK: PTV SPORTS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32374.ts
-#EXTINF:-1 tvg-name="PK: TEN SPORTS PK" group-title="Ejaz-Pakistani-stable",PK: TEN SPORTS PK
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32375.ts
-#EXTINF:-1 tvg-name="PK: GEO SUPER" group-title="Ejaz-Pakistani-stable",PK: GEO SUPER
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32376.ts
-#EXTINF:-1 tvg-name="PK: Madani Channel" group-title="Ejaz-Pakistani-stable",PK: Madani Channel
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32377.ts
-#EXTINF:-1 tvg-name="PK: Minhaj TV" group-title="Ejaz-Pakistani-stable",PK: Minhaj TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32378.ts
-#EXTINF:-1 tvg-name="PK: Public News" group-title="Ejaz-Pakistani-stable",PK: Public News
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32379.ts
-#EXTINF:-1 tvg-name="PK: CAPITAL NEWS" group-title="Ejaz-Pakistani-stable",PK : CAPITAL NEWS
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32380.ts
-#EXTINF:-1 tvg-name="PK: ASIA TV HD" group-title="Ejaz-Pakistani-stable",PK: ASIA TV HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32381.ts
-#EXTINF:-1 tvg-name="PK: HUM MASALA UK" group-title="Ejaz-Pakistani-stable",PK: HUM MASALA UK
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32382.ts
-#EXTINF:-1 tvg-name="PK: Khyber Middle East" group-title="Ejaz-Pakistani-stable",PK : Khyber Middle East
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32383.ts
-#EXTINF:-1 tvg-name="PK: NOOR TV" group-title="Ejaz-Pakistani-stable",PK : NOOR TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32384.ts
-#EXTINF:-1 tvg-name="PK: Hidayat TV" group-title="Ejaz-Pakistani-stable",PK : Hidayat TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32385.ts
-#EXTINF:-1 tvg-name="PK: Kay2 TV" group-title="Ejaz-Pakistani-stable",PK : Kay2 TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32386.ts
-#EXTINF:-1 tvg-name="PK: Lollywood" group-title="Ejaz-Pakistani-stable",PK : Lollywood
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32388.ts
-#EXTINF:-1 tvg-name="PK: Madani TV PAKISTAN" group-title="Ejaz-Pakistani-stable",PK | Madani TV PAKISTAN
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32391.ts
-#EXTINF:-1 tvg-name="PK: Kohenoor TV HD" group-title="Ejaz-Pakistani-stable",PK | Kohenoor TV HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32392.ts
-#EXTINF:-1 tvg-name="PK: Metro 1 News" group-title="Ejaz-Pakistani-stable",PK | Metro 1 News
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32395.ts
-#EXTINF:-1 tvg-name="PK: Islam channel uk" group-title="Ejaz-Pakistani-stable",PK | Islam channel uk
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32396.ts
-#EXTINF:-1 tvg-name="PK: ARY Zindagi" group-title="Ejaz-Pakistani-stable",PK | ARY Zindagi
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32397.ts
-#EXTINF:-1 tvg-name="PK: TV One" group-title="Ejaz-Pakistani-stable",PK | TV One
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32399.ts
-#EXTINF:-1 tvg-name="PK: Islam Channel Urdu" group-title="Ejaz-Pakistani-stable",PK | Islam Channel Urdu
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32400.ts
-#EXTINF:-1 tvg-name="PK: HUM TV EUROPE HD" group-title="Ejaz-Pakistani-stable",PK | HUM TV EUROPE HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32401.ts
-#EXTINF:-1 tvg-name="PK: ZINDAGI TV" group-title="Ejaz-Pakistani-stable",PK | ZINDAGI TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32402.ts
-#EXTINF:-1 tvg-name="PK: Hadi TV" group-title="Ejaz-Pakistani-stable",PK | Hadi TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32403.ts
-#EXTINF:-1 tvg-name="PK: KTN TV HD" group-title="Ejaz-Pakistani-stable",PK | KTN TV HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32405.ts
-#EXTINF:-1 tvg-name="PK: King TV HD" group-title="Ejaz-Pakistani-stable",PK | King TV HD
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32406.ts
-#EXTINF:-1 tvg-name="PK: Takbeer tv (UK)" group-title="Ejaz-Pakistani-stable",PK | Takbeer tv (UK)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32407.ts
-#EXTINF:-1 tvg-name="PK: IQRA (urdu version)" group-title="Ejaz-Pakistani-stable",PK | IQRA (urdu version)
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32409.ts
-#EXTINF:-1 tvg-name="PK: PTV GLOBAL" group-title="Ejaz-Pakistani-stable",PK | PTV GLOBAL
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32413.ts
-#EXTINF:-1 tvg-name="PK: WASEB TV" group-title="Ejaz-Pakistani-stable",PK | WASEB TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32414.ts
-#EXTINF:-1 tvg-name="PK: GEO TV" group-title="Ejaz-Pakistani-stable",PK | UK | GEO TV
-http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/32415.ts
 
 
 
@@ -594,11 +386,10 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="champion trophy PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",During Event only
-https://cdn08khi.tamashaweb.com:8087/jazzauth/PKvsNZ-abr/playlist.m3u8
+https://cdn08khi.tamashaweb.com:8087/jazzauth/PSL10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ten sports PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Ten sports
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Ten sports PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",PSL MYCO
+https://ml-pull-hwc.myco.io:443/stream1/hls/stream1_H264-720p.m3u8?pkg_media=video&pkg_hm=stream1.m3u8&pkg_svc=1&pkg_vcodec=avc1
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryPakistan PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",DiscoveryPakistan
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
