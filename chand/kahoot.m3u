@@ -1,6 +1,36 @@
 #EXTM3U 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="live psl" tvg-logo="" group-title="AC | EJAZ-PSL",A SPORTS 
+http://xtv.ooo:8080/3329133813/11223344/219689
+
+#EXTINF:-1 tvg-id="" tvg-name="live psl" tvg-logo="" group-title="AC | EJAZ-PSL",A SPORTS 2
+http://xtv.ooo:8080/3329133813/11223344/221417
+
+#EXTINF:-1 tvg-id="" tvg-name="live psl" tvg-logo="" group-title="AC | EJAZ-PSL",PTV SPORTS 2
+http://xtv.ooo:8080/3329133813/11223344/167567
+
+#EXTINF:-1 tvg-id="" tvg-name="live psl" tvg-logo="" group-title="AC | EJAZ-PSL",PTV SPORTS 
+http://xtv.ooo:8080/3329133813/11223344/217968
+
 #EXTINF:-1 tvg-id="" tvg-name="live psl" tvg-logo="" group-title="AC | EJAZ-TAMASHA",live psl
 https://tencentcdn5.tamashaweb.com:443/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSHU1WEB_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="live psl sky" tvg-logo="" group-title="AC | EJAZ-TAMASHA",live psl T-sports
+https://live.tsports.com:443/?bitrate=1024000&channel=tsports_live_1_720&res=720
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Geo ent" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Geo ent
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hum tv" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Hum tv
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-name="PTV SPORTS (4K)" group-title="Ejaz-Cricket",PTV SPORTS (4K)
 http://skyglass.vip:8080/120820243509/45092025457/75314
@@ -371,6 +401,8 @@ http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AryNews" tvg-logo="" group-title="AB | EJAZ-SD",AryNews
 http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="92 News" tvg-logo="" group-title="AB | EJAZ-SD",92 News http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HumNewsHD" tvg-logo="" group-title="AB | EJAZ-SD",HumNewsHD
 
 http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
@@ -383,8 +415,7 @@ https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Geo News PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",Geo News
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/geoNews-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="champion trophy PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",During Event only
-https://cdn08khi.tamashaweb.com:8087/jazzauth/PSL10/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DiscoveryPakistan PK" tvg-logo="" group-title="AC | EJAZ-TAMASHA",DiscoveryPakistan
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/DiscoveryPakistan-abr/playlist.m3u8
