@@ -5,6 +5,9 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="A sports" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", A sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", A sports 480p
+https://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/ARYBK2H264_480p.m3u8?isSubM3u8=1
+
 #EXTINF:-1 tvg-id="TEN SPORTS PK" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", TEN SPORTS PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
@@ -35,8 +38,11 @@ http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HumNewsHD" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", HumNewsHD
 http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pak vs ban T20" tvg-logo="noimage.png" group-title="AC | EJAZ-TAMASHA", Pak vs ban T20
-https://cdn08khi.tamashaweb.com:8087/jazzauth/PAKVSBAN-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDI1IDEyOjA2OjA4IFBNJmhhc2hfdmFsdWU9b0h2K2hvK2xvRm1DYWhHbGl6V0hIUT09JnZhbGlkbWludXRlcz0xMA==
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="AC | EJAZ-TAMASHA", pak vs bag 480p
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_480p.m3u8?aliyunols=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="AC | EJAZ-TAMASHA", pak vs ban 720p
+https://alibabacdn2.tamashaweb.com/alibaba02/alibaba02stream_720p.m3u8?aliyunols=on
 
 #EXTINF:-1 tvg-id="Geo ent" tvg-logo="noimage.png" group-title="AC | EJAZ-TAMASHA", Geo ent
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
@@ -173,9 +179,6 @@ http://cord-cutter.net:8080/8fRQNT/761091/58847
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ejaz-sports", US Willow Cricket (X)
 http://cord-cutter.net:8080/8fRQNT/761091/41979
 
-#EXTINF:-1 tvg-id="PTV SPORTS (4K)" tvg-logo="noimage.png" group-title="Ejaz-Cricket", PTV SPORTS (4K)
-http://skyglass.vip:8080/120820243509/45092025457/75314
-
 #EXTINF:-1 tvg-id="PTV SPORTS" tvg-logo="noimage.png" group-title="Ejaz-Cricket", PTV SPORTS
 http://skyglass.vip:8080/120820243509/45092025457/75313
 
@@ -184,9 +187,6 @@ http://skyglass.vip:8080/120820243509/45092025457/75317
 
 #EXTINF:-1 tvg-id="TEN SPORTS HD" tvg-logo="noimage.png" group-title="Ejaz-Cricket", TEN SPORTS HD
 http://skyglass.vip:8080/120820243509/45092025457/521331
-
-#EXTINF:-1 tvg-id="A SPORTS FHD" tvg-logo="noimage.png" group-title="Ejaz-Cricket", A SPORTS FHD
-http://skyglass.vip:8080/120820243509/45092025457/521330
 
 #EXTINF:-1 tvg-id="A SPORTS ARY" tvg-logo="noimage.png" group-title="Ejaz-Cricket", A SPORTS ARY
 http://skyglass.vip:8080/120820243509/45092025457/75315
@@ -658,61 +658,4 @@ http://skyglass.vip:8080/120820243509/45092025457/82693
 
 #EXTINF:-1 tvg-id="PK- PTV NATIONAL" tvg-logo="noimage.png" group-title="Ejaz-Pakistani-HD", PK- PTV NATIONAL
 http://skyglass.vip:8080/120820243509/45092025457/82694
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ejaz-Kids", AC389:MAJD KIDS
-http://wanicelife.com:8880/D12m4642/92337733/27529
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ejaz-Kids", MX050:Discovery Kids
-http://wanicelife.com:8880/D12m4642/92337733/51408
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ejaz-Kids", US095:PBS Kids HD
-http://wanicelife.com:8880/D12m4642/92337733/3073
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ejaz-Kids", US735:Starz Kids & Family FHD
-http://wanicelife.com:8880/D12m4642/92337733/29455
-
-#EXTINF:-1 tvg-id="4af403e1c2f041188d146b543adc5668" tvg-logo="noimage.png" group-title="Ejaz-Kids", Disney Channel
-http://103.172.166.126:9981/stream/channelid/1627649098?ticket=2282DF24BE2B585A0A945365B9ED6938B2D75403&profile=pass
-
-#EXTINF:-1 tvg-id="d6ae7d5b9dfad06bcb98bdcd0a1f7455" tvg-logo="noimage.png" group-title="Ejaz-Kids", Disney Junior
-http://103.172.166.126:9981/stream/channelid/1534963414?ticket=B748C7D76B28F22C5D60CBAC98DC07C45D36B2EF&profile=pass
-
-#EXTINF:-1 tvg-id="d6ae7d5b9dfad06bcb98bdcd0a1f7455" tvg-logo="noimage.png" group-title="Ejaz-Kids", Disney Junior
-http://103.172.166.126:9981/stream/channelid/1534963414?ticket=B748C7D76B28F22C5D60CBAC98DC07C45D36B2EF&profile=pass
-
-#EXTINF:-1 tvg-id="6bc1a72b365955930b6a2546560a08ee" tvg-logo="noimage.png" group-title="Ejaz-Kids", Gem Junior
-http://103.172.166.126:9981/stream/channelid/732414315?ticket=3BCB27C40685484BC418B58987C502DFC59B133A&profile=pass
-
-#EXTINF:-1 tvg-id="6bc1a72b365955930b6a2546560a08ee" tvg-logo="noimage.png" group-title="Ejaz-Kids", Gem Junior
-http://103.172.166.126:9981/stream/channelid/732414315?ticket=3BCB27C40685484BC418B58987C502DFC59B133A&profile=pass
-
-#EXTINF:-1 tvg-id="11e44e1fd5e91bfc27f48f5c51303e13" tvg-logo="noimage.png" group-title="Ejaz-Kids", Gem Kids
-http://103.172.166.126:9981/stream/channelid/525263889?ticket=952EB785F312685C70A7B8D0A946EAC9EFB8E22B&profile=pass
-
-#EXTINF:-1 tvg-id="11e44e1fd5e91bfc27f48f5c51303e13" tvg-logo="noimage.png" group-title="Ejaz-Kids", Gem Kids
-http://103.172.166.126:9981/stream/channelid/525263889?ticket=952EB785F312685C70A7B8D0A946EAC9EFB8E22B&profile=pass
-
-#EXTINF:-1 tvg-id="249cb007cee905073e730f8e64a3266b" tvg-logo="noimage.png" group-title="Ejaz-Kids", Nick
-http://103.172.166.126:9981/stream/channelid/129014820?ticket=60E73D4C48CAFC6A39CA9669063A18F23AD7D083&profile=pass
-
-#EXTINF:-1 tvg-id="249cb007cee905073e730f8e64a3266b" tvg-logo="noimage.png" group-title="Ejaz-Kids", Nick
-http://103.172.166.126:9981/stream/channelid/129014820?ticket=60E73D4C48CAFC6A39CA9669063A18F23AD7D083&profile=pass
-
-#EXTINF:-1 tvg-id="6e9cc5bc9fb37115dddf59047db21850" tvg-logo="noimage.png" group-title="Ejaz-Kids", Nick HD+
-http://103.172.166.126:9981/stream/channelid/1019583598?ticket=35240EF7F038A125CE014879FB3C1144EF95F534&profile=pass
-
-#EXTINF:-1 tvg-id="6e9cc5bc9fb37115dddf59047db21850" tvg-logo="noimage.png" group-title="Ejaz-Kids", Nick HD+
-http://103.172.166.126:9981/stream/channelid/1019583598?ticket=35240EF7F038A125CE014879FB3C1144EF95F534&profile=pass
-
-#EXTINF:-1 tvg-id="a6d887deb29a8a0aac263fd9ca1e1258" tvg-logo="noimage.png" group-title="Ejaz-Kids", Pogo
-http://103.172.166.126:9981/stream/channelid/1585961126?ticket=2014838FE6D01CDD63AE04488AD39CF0C475744F&profile=pass
-
-#EXTINF:-1 tvg-id="a6d887deb29a8a0aac263fd9ca1e1258" tvg-logo="noimage.png" group-title="Ejaz-Kids", Pogo
-http://103.172.166.126:9981/stream/channelid/1585961126?ticket=2014838FE6D01CDD63AE04488AD39CF0C475744F&profile=pass
-
-#EXTINF:-1 tvg-id="b5ad0a914bf52e29fe9954ff39ecff03" tvg-logo="noimage.png" group-title="Ejaz-Kids", Sonic Kids
-http://103.172.166.126:9981/stream/channelid/285912501?ticket=48FD92107A1E1889D9EC4EED4434131A199A389D&profile=pass
-
-#EXTINF:-1 tvg-id="b5ad0a914bf52e29fe9954ff39ecff03" tvg-logo="noimage.png" group-title="Ejaz-Kids", Sonic Kids
-http://103.172.166.126:9981/stream/channelid/285912501?ticket=48FD92107A1E1889D9EC4EED4434131A199A389D&profile=pass
 
