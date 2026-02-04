@@ -7,8 +7,8 @@ https://cdn10lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-C-abr/playlist.m3u8?wm
 
 #EXTINF:-1 tvg-id="A sports" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", tamasha 2
 https://tencentcdn8.tamashaweb.com/v1/019bf00087161567ee93346674d025/019bffb7d77215fc600b1b67f81952/TMSH_WEB2_DIRTY.m3u8?timeshift=1&delay=1800&mode=6
-#EXTINF:-1 tvg-id="A sports" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", t3
-https://tgs5.myluck1.top:8088/mobile/stream1_240p/playlist.m3u8?id=2&pk=08a689e7a65f0caf2748f518305c82d6142e700cb53318cf9a770dea7efdeaa937cb59311266b36bc707cca00720369e977547d169d1b817caf8e78e93ada51e
+#EXTINF:-1 tvg-id="A sports" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", tamash 3
+https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?timeshift=1&delay=1800&mode=6
 #EXTINF:-1 tvg-id="A sports" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", t4
 https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=HBtQMvRow8BQHj77-8f1Yw&expires=1770209998
 #EXTINF:-1 tvg-id="A sports" tvg-logo="noimage.png" group-title="AB | EJAZ-SD", t5
